@@ -311,55 +311,6 @@ DHT sensor library
 
 ---
 
-# 📁 Repository Structure
-
-Recommended GitHub structure:
-
-```text
-AeroRover/
-│
-├── README.md
-│
-├── drone/
-│   ├── AeroRover_Drone.ino
-│   ├── sensors/
-│   └── wiring/
-│       └── drone-wiring-schematic.png
-│
-├── rover/
-│   ├── AeroRover_Rover.ino
-│   ├── sensors/
-│   └── wiring/
-│       └── rover-wiring-schematic.png
-│
-├── dashboard/
-│   ├── index.html
-│   ├── css/
-│   └── js/
-│
-├── hardware/
-│   ├── drone/
-│   ├── rover/
-│   └── schematics/
-│
-├── models/
-│   └── README.md
-│
-├── docs/
-│   ├── architecture.md
-│   ├── implementation.md
-│   └── testing.md
-│
-├── images/
-│   ├── drone.jpg
-│   ├── rover.jpg
-│   └── system-overview.png
-│
-└── LICENSE
-```
-
----
-
 # 🚀 Implementation
 
 ## Step 1 — Assemble the drone
